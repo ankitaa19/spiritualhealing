@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import Nav from './Nav'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css'
@@ -10,6 +8,9 @@ import Resources from './Resources';
 import Blogs from './Blogs';
 import Services from './Services';
 import UpcomingEvents from './UpcomingEvents';
+import reactLogo from './assets/react.svg'
+import viteLogo from '/vite.svg'
+
 
 
 function App() {
