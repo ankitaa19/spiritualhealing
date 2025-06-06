@@ -4,7 +4,7 @@ export default function Nav(){
        
         <nav className='navbar'>
         <div className='nav-head justify-content-end'>
-            Subodh
+          
         </div>
           
 <ul class="nav justify-content-end">
