@@ -7,28 +7,28 @@ export default function Nav(){
           
         </div>
           
-<ul class="nav justify-content-end">
+<ul className="nav justify-content-end">
    
-  <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="#">Home</a>
+  <li className="nav-item">
+    <a className="nav-link active" aria-current="page" href="#top">Home</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">About</a>
+  <li className="nav-item">
+    <a className="nav-link" href="#about">About</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Services</a>
+  <li className="nav-item">
+    <a className="nav-link" href="#services">Services</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" aria-disabled="true">Events</a>
+  <li className="nav-item">
+    <a className="nav-link" href="#events">Events</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" aria-disabled="true">Resources</a>
+  <li className="nav-item">
+    <a className="nav-link" href="#resources">Resources</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" aria-disabled="true">Blogs</a>
+  <li className="nav-item">
+    <a className="nav-link" href="#blogs">Blogs</a>
   </li>
-  <li class="nav-item">
-    <a class="nav-link" aria-disabled="true">Content</a>
+  <li className="nav-item">
+    <a className="nav-link" href="#content">Content</a>
   </li>
 </ul>
         </nav> 

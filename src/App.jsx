@@ -18,25 +18,25 @@ function App() {
 
   return (
     <>
-    <div>
+    <div id="top">
       <Nav/>
     </div>
     <div className="spiritual-bg">
       <Heading />
     </div>
-    <div className="about-section">
+    <div id="about" className="about-section">
       <About/>
     </div>
-    <div className="services-section">
+    <div id="services" className="services-section">
       <Services/>
     </div>
-    <div className="events-section">
+    <div id="events" className="events-section">
       <UpcomingEvents/>
     </div>
-    <div className="resources-section">
+    <div id="resources" className="resources-section">
       <Resources/>
     </div>
-     <div className="blogs-section">
+     <div id="blogs" className="blogs-section">
       <Blogs/>
     </div>
     
